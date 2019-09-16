@@ -1,0 +1,331 @@
+{
+    "places": [
+        {
+            "name": "Brooklyn New Lab",
+            "address": "19 Morris Ave., Brooklyn, NY 11205",
+            "FA_icon": "",
+            "favorites": [
+                {
+                    "name": "Meeting Room",
+                    "state": "Unlocking"
+                },
+                {
+                    "name": "Storage Room",
+                    "state": "Locked"
+                },
+                {
+                    "name": "Bathroom",
+                    "state": "Locked"
+                },
+                {
+                    "name": "Kitchen",
+                    "state": "Unlocked"
+                },
+                {
+                    "name": "Smoking Room",
+                    "state": "Lockdown"
+                }
+            ],
+            "recents": [
+                {
+                    "name": "Storage Room",
+                    "state": "Locked"
+                },
+                {
+                    "name": "Bathroom",
+                    "state": "Locked"
+                },                        
+                {
+                    "name": "Kitchen",
+                    "state": "Lockdown"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "1st Floor",
+                    "locks": [
+                        {
+                            "name": "Meeting Room",
+                            "state": "Unlocking"
+                        },
+                        {
+                            "name": "Storage Room",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Kitchen",
+                            "state": "Lockdown"
+                        }
+                    ]
+                },
+                {
+                    "name": "2nd Floor",
+                    "locks": [
+                        {
+                            "name": "Lounge",
+                            "state": "Unlocked"
+                        },
+                        {
+                            "name": "Bathroom",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Smoking Room",
+                            "state": "Unlocked"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Home Sweet Home ❤",
+            "address": "Granbacken 2, 168 69 Bromma",
+            "FA_icon": "",
+            "favorites": [
+                {
+                    "name": "Entrance",
+                    "state": "Locked"
+                },
+                {
+                    "name": "Storage Room",
+                    "state": "Locked"
+                }
+            ],
+            "recents": [
+                {
+                    "name": "Storage Room",
+                    "state": "Locked"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Main Building",
+                    "locks": [
+                        {
+                            "name": "Entrance",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Basement",
+                            "state": "Locked"
+                        }
+                    ]
+                },
+                {
+                    "name": "Guest House",
+                    "locks": [
+                        {
+                            "name": "Entrance",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Storage Room",
+                            "state": "Locked"
+                        } 
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gym",
+            "address": "Ulvsundavägen 106A, 168 67 Bromma",
+            "FA_icon": "",
+            "favorites": [
+                {
+                    "name": "Locker",
+                    "state": "Locked"
+                },
+                {
+                    "name": "Entrance",
+                    "state": "Locked"
+                }
+            ],
+            "recents": [
+                {
+                    "name": "Storage Room",
+                    "state": "Unocked"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Changing Room",
+                    "locks": [
+                        {
+                            "name": "Locker",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Bathroom",
+                            "state": "Unlocked"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weights Area",
+                    "locks": [
+                        {
+                            "name": "Entrance",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Storage Room",
+                            "state": "Unlocked"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Garage",
+            "address": "Granbacken 12, 168 69 Bromma",
+            "FA_icon": "",
+            "favorites": [
+                {
+                    "name": "Main Door",
+                    "state": "Locked"
+                }
+            ],
+            "recents": [
+                {
+                    "name": "Main Door",
+                    "state": "Locked"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Main Building",
+                    "locks": [
+                        {
+                            "name": "Main Door",
+                            "state": "Locked"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Parents House",
+            "address": "Karlaplan 23, 12313 Olafsberg",
+            "FA_icon": "",
+            "favorites": [
+                {
+                    "name": "Entrance",
+                    "state": "Unlocked"
+                },
+                {
+                    "name": "Living Room",
+                    "state": "Unlocked"
+                }
+            ],
+            "recents": [
+                {
+                    "name": "Guest Bedroom",
+                    "state": "Locked"
+                },
+                {
+                    "name": "Bathroom",
+                    "state": "Unlocked"
+                },
+                {
+                    "name": "Roof",
+                    "state": "Locked"
+                }
+           ],
+            "sections": [
+                {
+                    "name": "1st Floor",
+                    "locks": [
+                        {
+                            "name": "Entrance",
+                            "state": "Unlocked"
+                        },
+                        {
+                            "name": "Living Room",
+                            "state": "Unlocked"
+                        },
+                        {
+                            "name": "Bedroom",
+                            "state": "Locked"
+                        }
+                    ]
+                },
+                {
+                    "name": "2nd Floor",
+                    "locks": [
+                        {
+                            "name": "Guest Bedroom",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Bathroom",
+                            "state": "Unlocked"
+                        },
+                        {
+                            "name": "Roof",
+                            "state": "Locked"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lena's House",
+            "address": "Kinnekullevägen 43, 167 43 Bromma",
+            "FA_icon": "",
+            "favorites": [
+                {
+                    "name": "Entrance",
+                    "state": "Locked"
+                },
+                {
+                    "name": "Basement",
+                    "state": "Locked"
+                }
+            ],
+            "recents": [
+                {
+                    "name": "Locker",
+                    "state": "Locked"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Apartment",
+                    "locks": [
+                        {
+                            "name": "Entrance",
+                            "state": "Locked"
+                        },
+                        {
+                            "name": "Locker",
+                            "state": "Unlocked"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tvättstuga",
+                    "locks": [
+                        {
+                            "name": "Entrance",
+                            "state": "Unlocked"
+                        },
+                        {
+                            "name": "Basement",
+                            "state": "Locked"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cykelroom",
+                    "locks": [
+                        {
+                            "name": "Entrance",
+                            "state": "Locked"
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
